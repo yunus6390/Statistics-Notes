@@ -96,6 +96,9 @@
 
 #### Scale of measurment
 
+![Scale of Measurement](https://cdn1.byjus.com/wp-content/uploads/2019/08/Scales-of-measurement.png)
+
+
 - Nominal:  No order or relationship among categories
   Gender, Zip code, Eye color, Political Affiliation,Religious  Affiliation, Nationality
 - Ordinal:  Order exists among categories
@@ -109,7 +112,9 @@
 
 >     - Nominal | Categorical data
 >     - Ordinal | Categorical data
-  
+
+![Examples of Scale of measurements](https://o.quizlet.com/iYxwY-DwLb4fEanr3.JU.A.png)
+
 #### Data  types/Variable  Types
 
 - Numerical: 
